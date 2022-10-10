@@ -33,8 +33,10 @@ Fit the model
 
 STEP 8:
 Plot the performance plot
-
+```
 PROGRAM
+name:k.garshan kumar
+reg no: 212219040034
 import os
 import pandas as pd
 import numpy as np
@@ -142,6 +144,6 @@ if(x_single_prediction==1):
     print("uninfected")
 else:
     print("parasitized")
-
+```
 
  
