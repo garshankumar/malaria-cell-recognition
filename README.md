@@ -142,7 +142,7 @@ if(x_single_prediction==1):
     print("uninfected")
 else:
     print("parasitized")
-    ```
+ 
     ![image](https://user-images.githubusercontent.com/112486797/194868494-9dc93f48-3875-4047-b0a5-f2d76a742d5a.png)
 
 
