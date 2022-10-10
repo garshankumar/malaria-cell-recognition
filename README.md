@@ -149,7 +149,9 @@ else:
 ![image](https://user-images.githubusercontent.com/112486797/194872480-6db235be-9e85-498e-98f6-9f4576a0e11a.png)
 ![image](https://user-images.githubusercontent.com/112486797/194872831-815c5461-de5a-450c-b478-3d71d58281f9.png)
 ![image](https://user-images.githubusercontent.com/112486797/194872970-91f84a91-8f7b-4344-b0b9-462e61d34a3e.png)
-RESULT
+```
+## RESULT
 Thus, a deep neural network for Malaria infected cell recognized and analyzed the performance .
+```
 
  
