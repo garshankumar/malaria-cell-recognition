@@ -145,7 +145,9 @@ else:
     ```
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112486797/194798905-db6b0678-696c-4232-93d0-429dc790b3f7.png)
+
 ![image](https://user-images.githubusercontent.com/112486797/194798969-3b19a3d6-f8ca-4a4a-afc9-07605d31340e.png)
+
 ![image](https://user-images.githubusercontent.com/112486797/194799080-cec405f9-5d9d-4f96-abda-6a5e1c00b5bc.png)
 
 ```
