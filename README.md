@@ -33,6 +33,8 @@ STEP 8:
 Plot the performance plot
 ```
 ## PROGRAM
+name:k.garshankumar
+regno:212219040034
 import os
 import pandas as pd
 import numpy as np
@@ -142,16 +144,10 @@ else:
     print("parasitized")
     ```
 ## OUTPUT
-### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://user-images.githubusercontent.com/112486797/194798905-db6b0678-696c-4232-93d0-429dc790b3f7.png)
+![image](https://user-images.githubusercontent.com/112486797/194798969-3b19a3d6-f8ca-4a4a-afc9-07605d31340e.png)
+![image](https://user-images.githubusercontent.com/112486797/194799080-cec405f9-5d9d-4f96-abda-6a5e1c00b5bc.png)
 
-     ![image](https://user-images.githubusercontent.com/112486797/194798145-2d6966f1-b2a0-4135-aebb-c4246a172b78.png)
-### Classification Report
-      ![image](https://user-images.githubusercontent.com/112486797/194798259-53453559-47b4-47be-8c00-20a8313c109b.png)
-### Confusion Matrix
-
-      ![image](https://user-images.githubusercontent.com/112486797/194798381-0da7fcc7-fb7b-4111-bfb3-220618b7a267.png)
-### New Sample Data Prediction
-      ![image](https://user-images.githubusercontent.com/112486797/194798422-27b4f667-7679-4855-a5a9-4501a9bf2b0c.png)
 ```
 ## RESULT
 
