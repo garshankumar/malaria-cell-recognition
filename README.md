@@ -142,8 +142,8 @@ else:
     print("parasitized")
     ```
 ## OUTPUT
-
 ### Training Loss, Validation Loss Vs Iteration Plot
+
      ![image](https://user-images.githubusercontent.com/112486797/194798145-2d6966f1-b2a0-4135-aebb-c4246a172b78.png)
 ### Classification Report
       ![image](https://user-images.githubusercontent.com/112486797/194798259-53453559-47b4-47be-8c00-20a8313c109b.png)
