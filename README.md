@@ -144,14 +144,14 @@ else:
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://user-images.githubusercontent.com/112486797/194798145-2d6966f1-b2a0-4135-aebb-c4246a172b78.png)
+     ![image](https://user-images.githubusercontent.com/112486797/194798145-2d6966f1-b2a0-4135-aebb-c4246a172b78.png)
 ### Classification Report
-![image](https://user-images.githubusercontent.com/112486797/194798259-53453559-47b4-47be-8c00-20a8313c109b.png)
+      ![image](https://user-images.githubusercontent.com/112486797/194798259-53453559-47b4-47be-8c00-20a8313c109b.png)
 ### Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/112486797/194798381-0da7fcc7-fb7b-4111-bfb3-220618b7a267.png)
+      ![image](https://user-images.githubusercontent.com/112486797/194798381-0da7fcc7-fb7b-4111-bfb3-220618b7a267.png)
 ### New Sample Data Prediction
-![image](https://user-images.githubusercontent.com/112486797/194798422-27b4f667-7679-4855-a5a9-4501a9bf2b0c.png)
+      ![image](https://user-images.githubusercontent.com/112486797/194798422-27b4f667-7679-4855-a5a9-4501a9bf2b0c.png)
 ```
 ## RESULT
 
