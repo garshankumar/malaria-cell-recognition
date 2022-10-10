@@ -10,13 +10,15 @@ Using data augmentation in the Convolutional Neural Network approach decreases t
 ## Neural Network Model
 ![image](https://user-images.githubusercontent.com/112486797/194797842-9c8e8b34-2cfa-4438-9430-5a04ffaea191.png)
 ## DESIGN STEPS
-
-### STEP 1:
+STEP 1:
 Import tensorflow and preprocessing libraries
-### STEP 2:
+
+STEP 2:
 Read the dataset
-### STEP 3:
+
+STEP 3:
 Create an ImageDataGenerator to flow image data
+
 STEP 4:
 Build the convolutional neural network model and train the model
 
@@ -31,10 +33,8 @@ Fit the model
 
 STEP 8:
 Plot the performance plot
-```
-## PROGRAM
-name:k.garshankumar
-regno:212219040034
+
+PROGRAM
 import os
 import pandas as pd
 import numpy as np
@@ -142,17 +142,6 @@ if(x_single_prediction==1):
     print("uninfected")
 else:
     print("parasitized")
-##output
-![Screenshot 2022-10-10 182045](https://user-images.githubusercontent.com/112486797/194870980-40c26cf3-f8ae-4970-9c7f-87dc3754ba87.png)
+
 
  
-
-
-
-
-
-
-
-## RESULT
-
-Thus, a deep neural network for Malaria infected cell recognized and analyzed the performance .
