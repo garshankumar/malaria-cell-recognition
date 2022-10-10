@@ -145,5 +145,5 @@ if(x_single_prediction==1):
 else:
     print("parasitized")
 ```
-
+##OUTPUT
  
