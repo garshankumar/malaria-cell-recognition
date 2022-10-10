@@ -143,7 +143,9 @@ if(x_single_prediction==1):
 else:
     print("parasitized")
 ##output
- ![image](https://user-images.githubusercontent.com/112486797/194870161-186c05f4-f86b-49de-b815-61ba5a7ad3f7.png)
+![Screenshot 2022-10-10 182045](https://user-images.githubusercontent.com/112486797/194870980-40c26cf3-f8ae-4970-9c7f-87dc3754ba87.png)
+
+ 
 
 
 
