@@ -146,4 +146,6 @@ else:
     print("parasitized")
 ```
 ##OUTPUT
+![image](https://user-images.githubusercontent.com/112486797/194872480-6db235be-9e85-498e-98f6-9f4576a0e11a.png)
+
  
