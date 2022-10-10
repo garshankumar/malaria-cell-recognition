@@ -145,11 +145,14 @@ else:
     ```
 ## OUTPUT
 
-![image](https://user-images.githubusercontent.com/112486797/194798905-db6b0678-696c-4232-93d0-429dc790b3f7.png)
+![image](https://user-images.githubusercontent.com/112486797/194866375-4b1e7392-5db5-4d3f-a5c7-74dfa7f6b91b.png)
 
-![image](https://user-images.githubusercontent.com/112486797/194798969-3b19a3d6-f8ca-4a4a-afc9-07605d31340e.png)
 
-![image](https://user-images.githubusercontent.com/112486797/194799080-cec405f9-5d9d-4f96-abda-6a5e1c00b5bc.png)
+![image](https://user-images.githubusercontent.com/112486797/194866510-f47ec255-db9f-4d80-a899-22a08f3013cc.png)
+
+
+![image](https://user-images.githubusercontent.com/112486797/194866694-32da87fb-bf54-41fb-a78b-4691a5853b3a.png)
+
 
 
 ## RESULT
