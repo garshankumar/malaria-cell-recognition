@@ -31,6 +31,7 @@ Fit the model
 
 STEP 8:
 Plot the performance plot
+```
 ## PROGRAM
 import os
 import pandas as pd
@@ -139,6 +140,7 @@ if(x_single_prediction==1):
     print("uninfected")
 else:
     print("parasitized")
+    ```
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![image](https://user-images.githubusercontent.com/112486797/194798145-2d6966f1-b2a0-4135-aebb-c4246a172b78.png)
